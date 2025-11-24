@@ -1,0 +1,50 @@
+{
+	"name": "mvp-contributions",
+	"description": "Submit your Microsoft MVP contributions with the ease of a command line CLI",
+	"version": "0.0.1",
+	"license": "MIT",
+	"type": "module",
+	"bin": {
+		"mvp-contributions": "dist/index.js",
+		"mvpc": "dist/index.js"
+	},
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/_AhmadAwais/"
+	},
+	"keywords": [
+		"mvp-contributions",
+		"microsoft-mvp",
+		"mvp",
+		"Ahmad Awais",
+		"contributions",
+		"cli"
+	],
+	"files": [
+		"dist"
+	],
+	"scripts": {
+		"dev": "tsup --watch",
+		"build": "tsup",
+		"test": "vitest --run",
+		"test:watch": "vitest",
+		"format": "prettier --write \"./**/*.{ts,js,json}\"",
+		"login": "tsx scripts/capture-token.ts"
+	},
+	"dependencies": {
+		"@clack/prompts": "^0.7.0",
+		"chalk": "^5.3.0",
+		"commander": "^11.1.0",
+		"conf": "^12.0.0",
+		"ora": "^8.0.1"
+	},
+	"devDependencies": {
+		"@types/node": "^20.10.6",
+		"prettier": "^3.1.1",
+		"tsup": "^8.0.1",
+		"tsx": "^4.19.4",
+		"typescript": "^5.3.3",
+		"vitest": "^1.1.0"
+	}
+}
