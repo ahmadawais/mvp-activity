@@ -9,7 +9,7 @@ Submit your Microsoft MVP contributions from the command line.
 
 <br>
 
-[![DOWNLOADS](https://img.shields.io/npm/dt/mvp-contributions?style=for-the-badge&label=Downloads&colorA=191D20&colorB=268637)](https://www.npmjs.com/package/mvp-contributions) [![Learn Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?style=for-the-badge&colorA=191D20&colorB=268637)](https://nodecli.com/?utm_source=GitHubFOSS) [![Follow @_ahmadawais on X](https://img.shields.io/badge/FOLLOW%20@_ahmadawais%20%E2%86%92-gray.svg?style=for-the-badge&colorA=191D20&colorB=268637)](https://x.com/_ahmadawais/)
+[![DOWNLOADS](https://img.shields.io/npm/dt/mvp-contributions?style=for-the-badge&label=Downloads&colorA=191D20&colorB=18BBF2)](https://www.npmjs.com/package/mvp-contributions) [![Learn Node.js CLI Automation](https://img.shields.io/badge/LEARN-NodeCLI.com%20%E2%86%92-gray.svg?style=for-the-badge&colorA=191D20&colorB=18BBF2)](https://nodecli.com/?utm_source=GitHubFOSS) [![Follow @_ahmadawais on X](https://img.shields.io/badge/FOLLOW-@_ahmadawais%20%E2%86%92-gray.svg?style=for-the-badge&colorA=191D20&colorB=18BBF2)](https://x.com/_ahmadawais/)
 
 </h4>
 
