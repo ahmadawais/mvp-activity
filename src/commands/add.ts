@@ -55,9 +55,8 @@ const ROLES: MVPActivityRole[] = [
 ];
 
 const TECH_AREAS = [
-	'Web Development',
-	'Cloud & AI',
 	'Developer Tools',
+	'Web Development',
 	'Data & Analytics',
 	'Mobile Development',
 	'DevOps',
